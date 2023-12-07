@@ -1,0 +1,126 @@
+.img{
+    width: 300px;
+    height: 600x;
+    
+}
+.qwe{
+    font-size: 30px;
+    
+    
+}
+.qwe1{
+    font-size: 30px;
+  color: #626262;
+  margin: 10px 0px;
+    
+    
+}
+.wer1{
+    width: 300px;
+    height: 300px;
+        display: inline-block;
+        border-radius: 10px;
+        background-color: white;
+        transition:0.4s;
+        margin: 20px;
+        border: 5px solid #222222;
+        margin: 100px;
+        
+}
+.wer2{
+    width: 300px;
+    height: 300px;
+        display: inline-block;
+        border-radius: 10px;
+        background-color: white;
+        transition:0.4s;
+        margin: 20px;
+        border: 5px solid #222222;
+        margin: 100px;
+}
+.wer3{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: white;
+    transition:0.4s;
+    margin: 20px;
+    border: 5px solid #222222;
+    margin: 100px;
+    
+    
+}
+.asd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.asd1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.wer1:hover {
+    width: 30%;
+    box-shadow: 0 0 20px rgb(235, 69, 96);
+    overflow: hidden;
+  }
+  .wer2:hover {
+    width: 30%;
+    box-shadow: 0 0 20px rgb(235, 69, 96);
+    overflow: hidden;
+  }
+  .wer3:hover {
+    width: 30%;
+    box-shadow: 0 0 20px rgb(235, 69, 96);
+    overflow: hidden;
+  }
+  body {
+    background: linear-gradient(white, pink);
+  }
+  .btn1{
+    display: inline-block;
+    text-decoration:none;
+    padding: 10px 20px;
+    color: white;
+    background-color: rgba(116, 20, 20, 0.8);
+    text-transform: uppercase; 
+    
+  }
+  .rty{
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    margin:0 auto;
+  }
+  .rty1{
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    margin:0 auto;
+  }
+  .sylka{
+    display: inline-block;
+    text-decoration:none;
+    padding: 10px 20px;
+    color: white;
+    background-color: rgba(116, 20, 20, 0.8);
+    text-transform: uppercase; 
+    
+  }
+  .zxc{
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    margin:15px;
+    
+  }
+  .small_img{
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+  }
+  
